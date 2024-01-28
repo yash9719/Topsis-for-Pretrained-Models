@@ -1,5 +1,5 @@
 # Topsis-for-Pretrained-Models
-I have used text summarization pre-trained models from hugging face.<br>
+I have used pre-trained models from hugging face.<br>
 I have used cnn_dailymail dataset.<br>
 Apply topsis to find out best pre-trained model.<br>
 
